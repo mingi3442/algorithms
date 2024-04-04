@@ -24,6 +24,7 @@ function solution(participant: string[], completion: string[]): string {
   return "";
 }
 
+// 타임 아웃
 // function wrongSolution(participant:string[], completion:string[]):string {
 //   completion.forEach(ele => {
 //       const idx = participant.indexOf(ele)
